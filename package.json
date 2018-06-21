@@ -1,6 +1,6 @@
 {
   "name": "generator-for-dumbasses",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generates a webpack project with or without a node server",
   "repository": {
     "type": "git",
