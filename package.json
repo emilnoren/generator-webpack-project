@@ -1,14 +1,20 @@
 {
-  "name": "generator-webpack-project",
+  "name": "generator-krabban-project-setup",
   "version": "0.1.0",
   "description": "Generates a webpack project with or without a node server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilnoren/generator-webpack-project.git"
+  },
   "files": [
     "app"
   ],
   "keywords": [
     "yeoman-generator"
   ],
+  "author": "Emil Norén",
   "dependencies": {
     "yeoman-generator": "^1.1.1"
-  }
+  },
+  "homepage": "https://github.com/emilnoren/generator-webpack-project"
 }
