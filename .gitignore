@@ -1,0 +1,31 @@
+# Version control
+*.hg
+*.bzr
+*.git
+*.svn
+
+
+# Node
+node_modules
+
+
+# Server & conf. files
+*.sublime-workspace
+server.ini
+sftp-config.json
+.env
+
+
+# Utilities & build
+npm-debug.log
+git-patch_*
+
+
+# Junk
+_notes/
+.afpDeleted*
+*.DS_Store
+Thumbs.db
+desktop.ini
+tmp-*.html
+dwsync.xml
