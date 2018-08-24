@@ -7,7 +7,7 @@
     "url": "https://github.com/emilnoren/generator-webpack-project.git"
   },
   "files": [
-    "app"
+    "generators"
   ],
   "keywords": [
     "yeoman-generator"
